@@ -3,7 +3,7 @@
 Basic [UniProt](https://www.uniprot.org) utils.
 
 # Python
-Python>=3.13
+Python>=3.10
 
 # Installing
 
