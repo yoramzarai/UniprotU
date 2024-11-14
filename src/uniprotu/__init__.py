@@ -1,1 +1,1 @@
-from uniprot_utils import *
+from uniprotu.uniprot_utils import *

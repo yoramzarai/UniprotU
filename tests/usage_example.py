@@ -3,7 +3,7 @@ Few UniprotU usage example.
 
 [This file is not included in the build .whl file]
 """
-import uniprotu as u  # (__init__.py contain "from uniprot_utils import *")
+import uniprotu as u  # (__init__.py contain "from uniprotu.uniprot_utils import *")
 
 def main() -> None:
     """Testing few uniprotu utils."""
